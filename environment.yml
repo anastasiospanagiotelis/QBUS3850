@@ -7,5 +7,4 @@ dependencies:
   - matplotlib
   - pandas
   - statsmodels
-  - datetime
   - rise

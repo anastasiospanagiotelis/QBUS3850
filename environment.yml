@@ -9,3 +9,4 @@ dependencies:
   - statsmodels
   - rise
   - notebook
+  - jupyter_contrib_nbextensions

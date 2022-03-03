@@ -1,2 +1,2 @@
 jupyter nbextension enable splitcell/splitcell
-jupyter trust
+jupyter trust Lectures/03ARIMA/03ARIMA.ipynb

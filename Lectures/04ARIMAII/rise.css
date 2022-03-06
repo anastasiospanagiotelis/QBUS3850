@@ -1,0 +1,17 @@
+.rise-enabled {
+    background-color: #ffffff;
+    border-top: 30px #e64626 solid;
+    border-bottom: 30px #e64626 solid;
+    color: #000000
+}
+
+.title-slide {
+    color: #e08414;
+    background-color: #e64626;
+    font-size: 150%;
+    font-weight: bold;
+}
+
+
+
+

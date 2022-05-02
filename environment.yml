@@ -11,3 +11,4 @@ dependencies:
   - rise
   - nb_black
   - jupyter_contrib_nbextensions
+  - arch
